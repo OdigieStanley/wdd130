@@ -1,0 +1,26 @@
+nav {
+    background-color: purple;
+    padding: 5px;
+}
+
+nav a {
+    color: white;
+    display: ruby-text-container;
+    padding: 20px
+}
+
+h1 {
+    color: purple;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid purple;
+    padding: 10px;
+    box-shadow: 0 0 30px purple;
+}
+
+p {
+    padding: 10px;
+}
