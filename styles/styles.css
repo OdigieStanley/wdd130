@@ -5,7 +5,7 @@ nav {
 
 nav a {
     color: white;
-    display: ruby-text-container;
+    display: block;
     padding: 20px
 }
 
@@ -26,6 +26,9 @@ img {
 main img {
     width: 150px;
     height: auto;
+    border: 1%;
+    padding: 10px;
+    box-shadow: 0 0 30px purple;
 }
 
 main {
